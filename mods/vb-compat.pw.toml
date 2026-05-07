@@ -1,0 +1,13 @@
+name = "Van Backport Compat"
+filename = "vb-compat-1.7-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "705d61638e55f0b2d2eb786eb1f8a82d6c45b675"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7744653
+project-id = 1388531
