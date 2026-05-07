@@ -1,0 +1,13 @@
+name = "HRTF Fix"
+filename = "hrtffix-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0c74b4b52b9d3e4b6cff65ff7d53773670a8d88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6428954
+project-id = 1235827
