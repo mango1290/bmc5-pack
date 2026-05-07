@@ -1777,22 +1777,22 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-addon-darkmodded.pw.toml"
-hash = "814045da8ba5a287d0a8360a3f5e0fbe1f952ba5f43e17b77e5f0918cc50f8d1"
+hash = "2fae2c35485b9f675e6e4186f1db5804255a15aff0eceac0f0fa16bb03d54be0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-darkmode-main.pw.toml"
-hash = "e1999fc607b5dbd21bf14a2d5847b90c4b337de37233f48cfa63352832bb48fe"
+hash = "8a147c7226211c803b7736c587451e65500c953ed9c77c4b76220830b4b2b2a9"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-darkmode-neo.pw.toml"
-hash = "726fa018d0d846f4febc9ab534e6837ef34c43e24ce85ab8126ef473d829345a"
+hash = "9b8fc38c046ccfb889b47ea0ca6542fab4e0ca84cf35e507be4e73b51d975e75"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-darkmode.pw.toml"
-hash = "b9cc4ad05ddd1ac92860c06bb7444a5c3b21e258a5dadca434d01f1a5ccd2bf8"
+hash = "893f0421271f45bb159adc0f6ebe2f92e272e85f81a9bafa2d90019c3b29cb3b"
 metafile = true
 
 [[files]]
@@ -1802,5 +1802,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/stay-clear.pw.toml"
-hash = "86904b69f43a6598caea82a1f01e61ff1625c9677cc71d1346f61ed73bdc8d89"
+hash = "96c87d2f1b67c94ee6e442319d856974bb5516a02ebf87146657e25fafd699eb"
 metafile = true
