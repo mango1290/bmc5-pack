@@ -1,0 +1,10 @@
+[download]
+hash = "33ddd5eb2fc7f135f00252c7a5c8978036bfe9d252851beacdc0c42702f8f698a646b67f2309f156f9fc0156bd7ff90187160b2df9c7e13b667233b419208e92"
+hash-format = "sha512"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/blob/main/Mandala's%20GUI%20-%20Dark%20Mode%20Compat%20Neo%200.3%20Fix.zip"
+
+[update]
+
+filename = "Mandala's GUI - Dark Mode Compat Neo 0.3 Fix.zip"
+name = "Mandalas GUI Dark Mode Compat Neo"
