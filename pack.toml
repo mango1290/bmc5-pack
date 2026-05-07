@@ -1,0 +1,13 @@
+name = "BetterMC-BMC5"
+author = "Me"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "827d1b8f3cb730cf3ad14c7d52e30af34b2c0ad503c0bcc9e7b7f30e97453242"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
