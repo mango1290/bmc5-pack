@@ -1,0 +1,13 @@
+name = "Foolproof"
+filename = "foolproof-neoforge-1.0.4-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46f8e2d900e460864bbf22853c62f94a8b1bb5eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7024288
+project-id = 1332365
