@@ -1,0 +1,13 @@
+name = "Non-Directional Damage Tilt Fix"
+filename = "nondirectionaldamagetiltfix2.0.1+b1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2e569ee01dc672bb96d8cc581cf6052efb67f6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7296415
+project-id = 1307700
