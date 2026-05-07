@@ -1,0 +1,10 @@
+[download]
+hash = "06191eaaa454aee5b116275a51a26709b79a1a724156dbaec50b405c5f7637ad35e747b311c64c74153ffd290b12239c27330a15d6dc879554f7fd0786cf66d7"
+hash-format = "sha512"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/better_client-neoforge-1.9.0.jar"
+
+[update]
+
+filename = "better_client-neoforge-1.9.0.jar"
+name = "Better Client (Patched)"
