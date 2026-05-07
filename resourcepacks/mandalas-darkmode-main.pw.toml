@@ -1,0 +1,9 @@
+name = "Mandalas GUI Darkmode"
+filename = "MandalasGUI+Dakmode_1.21.8_v2.5.zip"
+side = "client"
+ 
+[download]
+hash = "f2a6231cca4e091d8f59b715b4e1fc0752dfd613fec6f705b1eea62a5a9eede7e5f3c1b6a0622249f6d5515c4783808926fe56407dc8df9c839403e17057c3d0"
+hash-format = "sha512"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/MandalasGUI%2BDakmode_1.21.8_v2.5.zip"

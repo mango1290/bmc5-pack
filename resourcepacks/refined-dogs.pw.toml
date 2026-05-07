@@ -1,0 +1,9 @@
+name = "Refined Dogs"
+filename = "RefinedDogs_v.0.0.4.zip"
+side = "client"
+ 
+[download]
+hash = "38105e3098cd8e19e9293f1eaec03cd6b48148190682ab1b494c73b8c8d8ee1bd49f4bca7a4383f904c29e9568f3d1a3cbd09a1aec7ac292324e60655055e29e"
+hash-format = "sha512"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/RefinedDogs_v.0.0.4.zip"
