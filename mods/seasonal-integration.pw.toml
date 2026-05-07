@@ -1,0 +1,13 @@
+name = "Seasonal Integration"
+filename = "Seasonal Integration-v1.5.0-Mc1.21.1+.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5dcdd21bbd0cfc305ed387d98612b236e01334f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7751942
+project-id = 1370540

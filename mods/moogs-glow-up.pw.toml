@@ -1,0 +1,13 @@
+name = "Moog's Glow Up"
+filename = "glow_up-neoforge-1.2.1-1.21-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03fdd90d49d6f39e15f5797e13d52ce94521f405"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7719495
+project-id = 1447206
