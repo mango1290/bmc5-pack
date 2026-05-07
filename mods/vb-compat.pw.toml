@@ -1,0 +1,9 @@
+name = "VB Compat"
+filename = "vb-compat-1.7-1.21.1.jar"
+side = "both"
+ 
+[download]
+hash = "498cebf1cce9ac51d384112af0cf9a2ad6b6c1df0dee2876f3f0edd38c15bbc9d0bf884df80dac0a6a531bdfbb14408bac41b1a0a9249f6c839d2f82ccb322be"
+hash-format = "sha512"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/vb-compat-1.7-1.21.1.jar"
