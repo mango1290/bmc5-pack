@@ -1081,6 +1081,11 @@ hash = "1262c73d6e6b1d83bca0e5e48d81c92e943915323710ff310fdfce2fde119465"
 metafile = true
 
 [[files]]
+file = "mods/mob-catcher.pw.toml"
+hash = "43c6fd6f1b90291ebea4cbb66296801b5ee911afbee94cc664bc377649673af3"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "252659cbaad2f31f723bf31d8ede250dc4b9c821c469f47b77d74e23864b4b45"
 metafile = true
