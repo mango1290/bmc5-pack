@@ -241,11 +241,6 @@ hash = "c05be737eb2e1fc7e611694f1295f070fc7fd1088cfae396aa1d3c884fc9f38e"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
-metafile = true
-
-[[files]]
 file = "mods/cataclysm-x-yungs.pw.toml"
 hash = "c70bc24b041d93887a40fe45e49ba54c65f6e76692ebc442a6a9a93c2f0637c0"
 metafile = true
