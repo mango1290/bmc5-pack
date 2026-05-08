@@ -386,11 +386,6 @@ hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-reworked.pw.toml"
-hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
-metafile = true
-
-[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "899cefbe03c5535b52755672a15bbd30633fd5c09bbfaf265bbe599f1438cc9e"
 metafile = true
@@ -1086,11 +1081,6 @@ hash = "1262c73d6e6b1d83bca0e5e48d81c92e943915323710ff310fdfce2fde119465"
 metafile = true
 
 [[files]]
-file = "mods/mob-catcher.pw.toml"
-hash = "43c6fd6f1b90291ebea4cbb66296801b5ee911afbee94cc664bc377649673af3"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "252659cbaad2f31f723bf31d8ede250dc4b9c821c469f47b77d74e23864b4b45"
 metafile = true
@@ -1433,16 +1423,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "345dc5a2b3dedcde5c7a1d8e34d256ecb93cf3a48e9290855b541d1a4d15a340"
-metafile = true
-
-[[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "d1256812bf0244b3914af4206cba1203dd51a3c849c5592315ac707f8941f9f2"
-metafile = true
-
-[[files]]
-file = "mods/simply-tooltips.pw.toml"
-hash = "529ad0d8a91e6cdbd8e9460f80ad9f4bcb393020749632c2ff77e6835c812a4b"
 metafile = true
 
 [[files]]
