@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mobcatcher-neoforge-1.21.1-0.jar"
+hash = "e3007944230926b07c7745ec26c339b8f67efd057e00bcc23045d9923b4e96eb"
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "af9ff2a6fcb16c0e376f7f1c1defc761d39a7ea64d575947033df52bd5937dc3"
 metafile = true
@@ -101,8 +105,18 @@ hash = "8e3c94d901d27042e160a6f618f1574c5e644defe10d6fb9ad486c9f2dbfce5d"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/armor-hider.pw.toml"
+hash = "d3ca717eed07bcbbd6258af0121ef87c9a3629909114d7b6060b250bdf62e291"
 metafile = true
 
 [[files]]
@@ -261,6 +275,11 @@ hash = "745023b6619198653d8d5e31bf1b5ef35e49bc3aec2afca8682e81b200436b95"
 metafile = true
 
 [[files]]
+file = "mods/cgs.pw.toml"
+hash = "f1eca096353691adb7c6a479781fc4666f9b3181c43f0f375551d6fa89457d7e"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "cc79252ae16dc896c5e3fd0a5b47114ade035eed270482c13a062e78283f232d"
 metafile = true
@@ -383,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "6ad424af2b8614fe9547f622a5b3d84d003eeffc6284a517aea90e377958a17a"
 metafile = true
 
 [[files]]
@@ -1081,6 +1105,11 @@ hash = "1262c73d6e6b1d83bca0e5e48d81c92e943915323710ff310fdfce2fde119465"
 metafile = true
 
 [[files]]
+file = "mods/mob-catcher.pw.toml"
+hash = "2a67729e15f4900a3d6a06a90150a60081cc6dbb7e8d0cb437a35b9206210168"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "252659cbaad2f31f723bf31d8ede250dc4b9c821c469f47b77d74e23864b4b45"
 metafile = true
@@ -1196,6 +1225,11 @@ hash = "97333b5d297e656725653bc86b3c8238367cc71d223fe7a2b40aab4e3ce6104a"
 metafile = true
 
 [[files]]
+file = "mods/nukateams-gun-lib.pw.toml"
+hash = "d1ae6d36965c75e6fbfbce4096465822aff908b40b33d01ac77c5a388c4e5eaa"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "67f092232a92992046932f1f157c883d6a560c6ffe1de61b1fc6c7e83a0a9f52"
 metafile = true
@@ -1268,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "cc52d0f23ac79d4a68ac0901d760122b5a79a24c96fc363d70e9193b6eb8d018"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
@@ -1591,6 +1630,11 @@ hash = "3f4ccf8820921a043753e0023173cc7eb225e19fef2ceaeeb0ebd8b2fb7a0c5d"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "164d9000bf1f25aafd1963f1b5d6000205a79ae960e3cc89177ad20eced26b31"
+metafile = true
+
+[[files]]
 file = "mods/twilights-flavors-delight.pw.toml"
 hash = "195b02f32de06a0edcaf065c0923f244dd6c96bf819d5285705804aea8ffb43b"
 metafile = true
@@ -1768,6 +1812,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks-neoforge.pw.toml"
 hash = "f73d7e6c79140f2694d988b6ab8883c7222467b068af4ab693c34a52bd23b2d0"
+metafile = true
+
+[[files]]
+file = "mods/zannaghs-armor-hider.pw.toml"
+hash = "d6c59dc527d992e6ee69832cd5ea0b17279c19657e4d9fe1d22f1e93f1d00920"
 metafile = true
 
 [[files]]
