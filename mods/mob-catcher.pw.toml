@@ -1,0 +1,8 @@
+name = "Mob Catcher"
+filename = "mobcatcher-neoforge-1.21.1-0.jar"
+side = "both"
+[download]
+hash = "e3007944230926b07c7745ec26c339b8f67efd057e00bcc23045d9923b4e96eb"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/mobcatcher-neoforge-1.21.1-0.jar"

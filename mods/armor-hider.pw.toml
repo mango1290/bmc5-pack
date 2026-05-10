@@ -1,0 +1,8 @@
+name = "Armor Hider"
+filename = "armor-hider-neoforge-0.10.15+mc-1.21.0-1.jar"
+side = "both"
+[download]
+hash = "eff11461fa7b5e7b8b7fbacb997db7e9b691ff4b261fe895900b0f3e679315a4"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/armor-hider-neoforge-0.10.15+mc-1.21.0-1.jar"
