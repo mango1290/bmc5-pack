@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mobcatcher-neoforge-1.21.1-0.jar"
-hash = "e3007944230926b07c7745ec26c339b8f67efd057e00bcc23045d9923b4e96eb"
-
-[[files]]
 file = "mods/abridged.pw.toml"
 hash = "af9ff2a6fcb16c0e376f7f1c1defc761d39a7ea64d575947033df52bd5937dc3"
 metafile = true
