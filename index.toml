@@ -1815,11 +1815,6 @@ hash = "f73d7e6c79140f2694d988b6ab8883c7222467b068af4ab693c34a52bd23b2d0"
 metafile = true
 
 [[files]]
-file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "d6c59dc527d992e6ee69832cd5ea0b17279c19657e4d9fe1d22f1e93f1d00920"
-metafile = true
-
-[[files]]
 file = "mods/zombie-improvements.pw.toml"
 hash = "1cf51ab3dab882bd713fbe14e29f157364d49f9286847eb318ead0b12f7d5899"
 metafile = true
