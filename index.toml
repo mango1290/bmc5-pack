@@ -91,11 +91,6 @@ hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "d5282b7a148f4fda7d1399815ee270f89a03ce8dcac67c848c64d0d0a1691671"
-metafile = true
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
@@ -206,11 +201,6 @@ hash = "365b29f8dfcc2c43b1d984754e7be1bdf67e33cd31e5b87767e0a1e1d7cefeda"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
-metafile = true
-
-[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "a4d044d8f7579c13f6f432ab5829c4be70a8626ed3fc3a02d14b1fbc20479da5"
 metafile = true
@@ -316,6 +306,11 @@ hash = "55df2b553b2ff4bc51bec0f1128a9b1d1d5c0ab713f0a074d8f7e8f0fc524c6f"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "345a727e262b83af144b69168560d87a667f224daaa9b2012dd2c1681bfb41fe"
+metafile = true
+
+[[files]]
 file = "mods/climate-rivers.pw.toml"
 hash = "56191b31aa0c189768ac79c5afe06f249c930d39fd317273a98520478f0d06ab"
 metafile = true
@@ -398,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "6ad424af2b8614fe9547f622a5b3d84d003eeffc6284a517aea90e377958a17a"
 metafile = true
 
 [[files]]
@@ -876,11 +876,6 @@ hash = "ab7bcb029c877bb3a0d16adc3a66d6c5417fa40b2ee3e032a467fd9b471d03d3"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "6b90d6d869cee12f1e57d33e4425be01a583f7969b80b84e27bc2d73313cb6a6"
-metafile = true
-
-[[files]]
 file = "mods/iris-shader-folder.pw.toml"
 hash = "009f0918ed3e3b353d90cf903bae47be8a4ca25636b4439f037d2c6b19280c28"
 metafile = true
@@ -983,11 +978,6 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "2f1a381eb3906c0a950c9d8516e8ea9d228015a468d495445062a42abc241a34"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "5fe986225bb3dac6e7e4dc19d4d1c6d0e7a1ece5e7e07999bf17ddccf09f6348"
 metafile = true
 
 [[files]]
