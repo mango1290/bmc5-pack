@@ -91,6 +91,11 @@ hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "d5282b7a148f4fda7d1399815ee270f89a03ce8dcac67c848c64d0d0a1691671"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
@@ -201,6 +206,11 @@ hash = "365b29f8dfcc2c43b1d984754e7be1bdf67e33cd31e5b87767e0a1e1d7cefeda"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "a4d044d8f7579c13f6f432ab5829c4be70a8626ed3fc3a02d14b1fbc20479da5"
 metafile = true
@@ -306,11 +316,6 @@ hash = "55df2b553b2ff4bc51bec0f1128a9b1d1d5c0ab713f0a074d8f7e8f0fc524c6f"
 metafile = true
 
 [[files]]
-file = "mods/clientsort.pw.toml"
-hash = "345a727e262b83af144b69168560d87a667f224daaa9b2012dd2c1681bfb41fe"
-metafile = true
-
-[[files]]
 file = "mods/climate-rivers.pw.toml"
 hash = "56191b31aa0c189768ac79c5afe06f249c930d39fd317273a98520478f0d06ab"
 metafile = true
@@ -396,11 +401,6 @@ hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
-file = "mods/crafting-tweaks.pw.toml"
-hash = "6ad424af2b8614fe9547f622a5b3d84d003eeffc6284a517aea90e377958a17a"
-metafile = true
-
-[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "899cefbe03c5535b52755672a15bbd30633fd5c09bbfaf265bbe599f1438cc9e"
 metafile = true
@@ -413,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "7aa0060e5df8631d27a789d73eb57d67c611b95be5bce4175810351e9479ae60"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d1aab2c2499b7060f74ec4a059a7195044a2d3a3828413561883fcc2793ee0a6"
 metafile = true
 
 [[files]]
@@ -583,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/epherolib.pw.toml"
 hash = "bb3972a97a3915f202ce571fc7b943b2055119a0d70404424505e4dbc811958c"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "31b7ec8d5a44926892bc10b4c0b836f5db457399006699e18bd1249c8d9802b6"
 metafile = true
 
 [[files]]
@@ -866,6 +876,11 @@ hash = "ab7bcb029c877bb3a0d16adc3a66d6c5417fa40b2ee3e032a467fd9b471d03d3"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "6b90d6d869cee12f1e57d33e4425be01a583f7969b80b84e27bc2d73313cb6a6"
+metafile = true
+
+[[files]]
 file = "mods/iris-shader-folder.pw.toml"
 hash = "009f0918ed3e3b353d90cf903bae47be8a4ca25636b4439f037d2c6b19280c28"
 metafile = true
@@ -921,6 +936,11 @@ hash = "480364ee4530bebdb3c4538dd30458e084a061bc3c4b42fb23a2ed3de2e16302"
 metafile = true
 
 [[files]]
+file = "mods/justhammers.pw.toml"
+hash = "923a48f0682494c6533fd6a1f1f8424ca61efc608f1a6f131468b93913a9a8d8"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "610c4f2a6bfdde68483f618819040c55d08df4f0fa1f546416f19fdec9d2e60b"
 metafile = true
@@ -963,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "2f1a381eb3906c0a950c9d8516e8ea9d228015a468d495445062a42abc241a34"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5fe986225bb3dac6e7e4dc19d4d1c6d0e7a1ece5e7e07999bf17ddccf09f6348"
 metafile = true
 
 [[files]]
@@ -1296,6 +1321,11 @@ hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "8bbd5202c4a87e31fe4effb77cb08c1c3f39d6f88af7bae98f51c2c7d2e14006"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -1443,6 +1473,16 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "345dc5a2b3dedcde5c7a1d8e34d256ecb93cf3a48e9290855b541d1a4d15a340"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "d1256812bf0244b3914af4206cba1203dd51a3c849c5592315ac707f8941f9f2"
+metafile = true
+
+[[files]]
+file = "mods/simply-tooltips.pw.toml"
+hash = "529ad0d8a91e6cdbd8e9460f80ad9f4bcb393020749632c2ff77e6835c812a4b"
 metafile = true
 
 [[files]]
