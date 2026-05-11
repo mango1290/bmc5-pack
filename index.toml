@@ -271,11 +271,6 @@ hash = "745023b6619198653d8d5e31bf1b5ef35e49bc3aec2afca8682e81b200436b95"
 metafile = true
 
 [[files]]
-file = "mods/cgs.pw.toml"
-hash = "f1eca096353691adb7c6a479781fc4666f9b3181c43f0f375551d6fa89457d7e"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "cc79252ae16dc896c5e3fd0a5b47114ade035eed270482c13a062e78283f232d"
 metafile = true
@@ -1101,8 +1096,8 @@ hash = "1262c73d6e6b1d83bca0e5e48d81c92e943915323710ff310fdfce2fde119465"
 metafile = true
 
 [[files]]
-file = "mods/mob-catcher.pw.toml"
-hash = "2a67729e15f4900a3d6a06a90150a60081cc6dbb7e8d0cb437a35b9206210168"
+file = "mods/mob-catcher-unofficial.pw.toml"
+hash = "5e9862b6cc5ddd90fd91f98b14c7b8b994d46ad6ef3f68d4a74ad09bbe068815"
 metafile = true
 
 [[files]]
@@ -1221,11 +1216,6 @@ hash = "97333b5d297e656725653bc86b3c8238367cc71d223fe7a2b40aab4e3ce6104a"
 metafile = true
 
 [[files]]
-file = "mods/nukateams-gun-lib.pw.toml"
-hash = "d1ae6d36965c75e6fbfbce4096465822aff908b40b33d01ac77c5a388c4e5eaa"
-metafile = true
-
-[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "67f092232a92992046932f1f157c883d6a560c6ffe1de61b1fc6c7e83a0a9f52"
 metafile = true
@@ -1298,11 +1288,6 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "cc52d0f23ac79d4a68ac0901d760122b5a79a24c96fc363d70e9193b6eb8d018"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
