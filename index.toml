@@ -1322,7 +1322,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
-hash = "8bbd5202c4a87e31fe4effb77cb08c1c3f39d6f88af7bae98f51c2c7d2e14006"
+hash = "6ed5ab31fcbd7a8cc640338a0faabc22cdf4aff64ac35182a6837ecfd38d1614"
 metafile = true
 
 [[files]]
