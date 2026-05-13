@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "3de5578544d77411926b4774a55265949ad45ac4134a588315915a81b57233a4"
+hash = "5807f199fe8d38285601cc0ded567f42ae23cf5b2b53ff9dce5cb8abd8890a67"
 
 [[files]]
 file = "mods/abridged.pw.toml"
