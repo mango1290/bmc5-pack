@@ -206,6 +206,11 @@ hash = "365b29f8dfcc2c43b1d984754e7be1bdf67e33cd31e5b87767e0a1e1d7cefeda"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "a4d044d8f7579c13f6f432ab5829c4be70a8626ed3fc3a02d14b1fbc20479da5"
 metafile = true
