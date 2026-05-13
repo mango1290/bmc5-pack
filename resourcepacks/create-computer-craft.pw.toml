@@ -1,0 +1,8 @@
+name = "Create: ComputerCraft"
+filename = "CreateComputers1.2.1-1.20.1.zip"
+side = "client"
+[download]
+hash = "9ecec828b559fab18e11a41741c55e9a8fca48320bba4767a6ddb87bb17e2410"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/CreateComputers1.2.1-1.20.1.zip"

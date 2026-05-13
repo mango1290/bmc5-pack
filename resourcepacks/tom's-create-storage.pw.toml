@@ -1,0 +1,8 @@
+name = "Tom's Create Storage"
+filename = "CreateSimpleStorage2.1.zip"
+side = "client"
+[download]
+hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/CreateSimpleStorage2.1.zip"
