@@ -241,6 +241,11 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "a3178253377879d78b45f0438308a630f41ed53888a01d2106a3368a095166c7"
 metafile = true
@@ -1738,6 +1743,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "03b1945f985d8f20d077e70eebff66c6b2f000918a6c4f834d9161dbe654cfa4"
+metafile = true
+
+[[files]]
+file = "mods/weeder-continued.pw.toml"
+hash = "c13a2114e9f3771279da447b5713f43ba88e265dab477cb80a1e77ddb5ead4fb"
 metafile = true
 
 [[files]]
