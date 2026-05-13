@@ -1,0 +1,8 @@
+name = "Create Ornithopter Glider"
+filename = "createornithopterglider-1.0.3-1.21.1.jar"
+side = "both"
+[download]
+hash = "2d6b4a66c85be87b6e0225df7e87a078c0f932bdc8511ddc2cbd55932bfd9915"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/createornithopterglider-1.0.3-1.21.1.jar"

@@ -1,0 +1,8 @@
+name = "Create Jetpack"
+filename = "create_jetpack-forge-5.1.2.jar"
+side = "both"
+[download]
+hash = "9fe5a681ea841ce9dc02e7132cd360e1c3e75314905b4ef1493e7548265d0985"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/create_jetpack-forge-5.1.2.jar"

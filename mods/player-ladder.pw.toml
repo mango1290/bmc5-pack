@@ -1,0 +1,8 @@
+name = "Player Ladder"
+filename = "playerladder-neoforge-1.21-0.7.1.jar"
+side = "both"
+[download]
+hash = "85428f23208dc73c834ec08187ca78958719b18dac06d975e554c978819e4a86"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/playerladder-neoforge-1.21-0.7.1.jar"
