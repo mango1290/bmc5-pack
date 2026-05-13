@@ -36,6 +36,11 @@ hash = "ff3ae9bae59b91406577910119f4eeab80a6148f0fb661a3e88cf819943b20d2"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "4832374d2149e53968b68a4dd8499ef078f600cf3ad5491d23777e9e83140493"
+metafile = true
+
+[[files]]
 file = "mods/adventure-dungeons-mod-edition.pw.toml"
 hash = "3571243aea97321410039ab44f35dd5f295761b888a3a7503069e03d87dfb7ed"
 metafile = true
@@ -261,6 +266,11 @@ hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "50b018038be4fa007f3e2edadced2aad21d5f840e290a99bbc0383f00858e3f6"
+metafile = true
+
+[[files]]
 file = "mods/certain-questing-additions.pw.toml"
 hash = "6004b8ba570106ff02293301633fcb53791c2cfc6c297dab6bc17458f1d51f12"
 metafile = true
@@ -398,6 +408,16 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "899cefbe03c5535b52755672a15bbd30633fd5c09bbfaf265bbe599f1438cc9e"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "2b7b1b2b3cacbba265989170e443bd952e9214030f64b1999125bfe9b340de24"
+metafile = true
+
+[[files]]
+file = "mods/create-ornithopter.pw.toml"
+hash = "42fbc412373584037d6ac9a6ddc2b119117cb45fe8483e97a231d3b0831b24c0"
 metafile = true
 
 [[files]]
@@ -1306,6 +1326,11 @@ hash = "cc52d0f23ac79d4a68ac0901d760122b5a79a24c96fc363d70e9193b6eb8d018"
 metafile = true
 
 [[files]]
+file = "mods/player-ladder.pw.toml"
+hash = "3cd453fa154dc368915090c92231c413ef6d1f9b0814872a43f05e3a797687d3"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
@@ -1826,6 +1851,16 @@ hash = "1cf51ab3dab882bd713fbe14e29f157364d49f9286847eb318ead0b12f7d5899"
 metafile = true
 
 [[files]]
+file = "resourcepacks/create-camera.pw.toml"
+hash = "c2643e771bcc0f5aa5942254c58804bc36a5dc5cdce9069193f6695a5ef7bc5f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-computer-craft.pw.toml"
+hash = "35b47a76c58bf96990f0bd69f51a6b68bca74f6f40de3815f53c46c969c3b10a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mandalas-addon-darkmodded.pw.toml"
 hash = "2fae2c35485b9f675e6e4186f1db5804255a15aff0eceac0f0fa16bb03d54be0"
 metafile = true
@@ -1853,4 +1888,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/stay-clear.pw.toml"
 hash = "96c87d2f1b67c94ee6e442319d856974bb5516a02ebf87146657e25fafd699eb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tom's-create-storage.pw.toml"
+hash = "17ae0e1f8ec751a327d90409e2304fd2f4e8c181fea0290eedf79bff680a7058"
 metafile = true
