@@ -531,6 +531,11 @@ hash = "dabdd4071bef81076c7fe7ff6bfa85830f5d87efd25b069fb78eb7134304b567"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "c9b54cf4d9c12a8b612bbe6cb65e9977216d50110cba8757486b171076c04da8"
+metafile = true
+
+[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "2347d974740f9b5a1869ba9738644987fa476574ce713503be834d985492dd43"
 metafile = true
