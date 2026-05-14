@@ -710,6 +710,11 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "d6590f1ecfee7c8940ead59d5f482b0ac4280dd7a0f8e7152d637457ea06a792"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
@@ -1530,6 +1535,11 @@ hash = "442ea4d2312dd58741a7c1ce1f6ae0514cc528fb0b06e7268807d46b0720d6d9"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "dc7140923a01338926a9bea3708b12ddc2599c1bb6c52b5dc624dbdcdde9385e"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "36b8d98dbb476927786adb571d8d9df830d16a624be85e8c7f82eafd16e43ede"
 metafile = true
@@ -1575,6 +1585,16 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "7f7ef360ee12ecfcf5597534a8cb16bb25604ef0fee11aecd6456d03781642a9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "8846dbb6023f6faf35766fb04a342ce0974390eaa0a05402397a4d2d8478831f"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b9d4d42709629f2d52cb9d33bedf298bbea635b53f69946f9ec2735c47dfbd83"
 metafile = true
@@ -1590,6 +1610,11 @@ hash = "39f04c55a2bd99df584fe260b0cccfcbda4bb1dfb553fb615517bf4449f4d446"
 metafile = true
 
 [[files]]
+file = "mods/starcatcher.pw.toml"
+hash = "b35fb57452ce0b051ac6d29dd6b986d49bcf3337d2dba3a89eb6db8ec269ca12"
+metafile = true
+
+[[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
 hash = "9b99e7aa00e20c15be65b3a4845daac4fb3e456010e924e36e81974cdce50241"
 metafile = true
@@ -1602,6 +1627,11 @@ metafile = true
 [[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
 hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "9f0cd1d096b591cb49077fbe4f95a1e24a93354cd9b4d77e74c49af2d29381cf"
 metafile = true
 
 [[files]]
