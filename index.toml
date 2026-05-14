@@ -5,6 +5,10 @@ file = "config/resourcepackoverrides.json"
 hash = "5807f199fe8d38285601cc0ded567f42ae23cf5b2b53ff9dce5cb8abd8890a67"
 
 [[files]]
+file = "configureddefaults/config/bettercombat/client.json5"
+hash = "7ed2342f4dd185d3b79748824ed067cbac16c691c8f5fd05d59bc9190f04821e"
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "af9ff2a6fcb16c0e376f7f1c1defc761d39a7ea64d575947033df52bd5937dc3"
 metafile = true
