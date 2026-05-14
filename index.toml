@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "d6590f1ecfee7c8940ead59d5f482b0ac4280dd7a0f8e7152d637457ea06a792"
+hash = "f3e408b54d4836786ed690ed15411bae9615e5fee92394afc63ce96b6d4dcc3c"
 metafile = true
 
 [[files]]
@@ -1796,7 +1796,7 @@ metafile = true
 
 [[files]]
 file = "mods/waveycapes.pw.toml"
-hash = "500d09822f4dae542d74dd849b1bf25c07350789cc0a5ae618205a0d08f4c6b9"
+hash = "95242514427f756d163b43477d78d85083c99138dfe142d3a5e11ec8eec4bcee"
 metafile = true
 
 [[files]]
