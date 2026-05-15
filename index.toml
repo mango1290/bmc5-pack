@@ -570,11 +570,6 @@ hash = "934815ee8a4c3935f7992f32c68afc3c93952eebf9e48858e1957eb980031a87"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-crosshair.pw.toml"
-hash = "0e78b65907acf67e72c78165f55b846cdc475520837d555a1f156874422da5f7"
-metafile = true
-
-[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
 metafile = true
