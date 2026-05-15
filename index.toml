@@ -850,11 +850,6 @@ hash = "f493681afe9d27595b382cfbbc756ea0ab06daa106e5bd8f50b10e6e8cc1076c"
 metafile = true
 
 [[files]]
-file = "mods/horse-breeding-fix.pw.toml"
-hash = "b9ca1624845ddd38fe1d5de15bcf7fdda1d8f2a4b65d4a860866c210604df6be"
-metafile = true
-
-[[files]]
 file = "mods/hrtffix.pw.toml"
 hash = "49f82e811cb1f43ace655b20bb107652be72a8aade96ba19277fc800093d2a5a"
 metafile = true
@@ -1686,7 +1681,7 @@ metafile = true
 
 [[files]]
 file = "mods/swem-lite.pw.toml"
-hash = "b991f60bd4395460fba4799d79789f57809d49784a03877adfc8b5f38a2360d7"
+hash = "dca21e7dae9e52a0817574164a18cb5eb72ccc9cb0b81d2322d351d685a24522"
 metafile = true
 
 [[files]]
