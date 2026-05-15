@@ -1,13 +1,8 @@
-name = "SWEM Lite (Upgrading Horses - Simply)"
+name = "SWEM Lite"
 filename = "swemlite-1.21.1-1.1.3.jar"
 side = "both"
-
 [download]
-hash-format = "sha1"
-hash = "ee48d889730dab4aa79b189cacfac2ba5af80629"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7963680
-project-id = 1187962
+hash = "4f4708e4beec71e28a19570be7aafab5124e4c1fd72a66056288dc349a8e884f82af3615ac597a2167925047d522befcac00ebb397ea549eb35419baa7f1a97a"
+hash-format = "sha512"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/swemlite-1.21.1-1.1.3.jar"
