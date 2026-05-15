@@ -1,0 +1,13 @@
+name = "Boomerang"
+filename = "boomerang-1.1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cdd7afa00e576df5c0e2e48c9872b32699cec3b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6281346
+project-id = 1201874
