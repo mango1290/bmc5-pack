@@ -255,11 +255,6 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
-file = "mods/boomerang.pw.toml"
-hash = "ead50d181138c937447c2224fd4403bd5be66fc29ec1549a27dad11e38cf1a3a"
-metafile = true
-
-[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
 metafile = true
@@ -342,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/client-crafting.pw.toml"
 hash = "55df2b553b2ff4bc51bec0f1128a9b1d1d5c0ab713f0a074d8f7e8f0fc524c6f"
-metafile = true
-
-[[files]]
-file = "mods/clientsort.pw.toml"
-hash = "345a727e262b83af144b69168560d87a667f224daaa9b2012dd2c1681bfb41fe"
 metafile = true
 
 [[files]]
@@ -577,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/dyed-flames.pw.toml"
 hash = "934815ee8a4c3935f7992f32c68afc3c93952eebf9e48858e1957eb980031a87"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-crosshair.pw.toml"
+hash = "0e78b65907acf67e72c78165f55b846cdc475520837d555a1f156874422da5f7"
 metafile = true
 
 [[files]]
@@ -1100,6 +1095,31 @@ hash = "7ab44c99b4dee4fac99eac30e91e00df9f942d01f3ecf172648a8501bf12b4b6"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "de4007e4d9e63f4470c442bc9b568c2c5b6d93970ac881068cccde432ca0058c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "5b6e513d543f82ffd9f01ef217e3abb7b55da78184bf52f07d2cc305f1ce16f7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "da326d59e505ce18857f1b72be406a03c7b7f96e09c0953cf1fff194c7ff58cd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "33ff6177b5e19c7ef130b6076ff6166a3994b511df06f3afcbc02af9212f29c8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "37e96fec653b3a8463d08eec8264fb8f97a9497b8a50723dd659c193a70f021f"
+metafile = true
+
+[[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "8b0e9d3c66f2a5276a3e1eaaab073f4e41f8d352c6d282e724129c23f0940bfc"
 metafile = true
@@ -1107,6 +1127,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-stairs.pw.toml"
 hash = "749bf8f43a3b49b103685b1d1c8c39a2ca7bcd796818dc7aad226711760f0857"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
 
 [[files]]
@@ -1610,8 +1635,18 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "e5c93ef7ac08fe360c200c41618ccbe02ed1288db03a14ee0e8c88d59dc14ce0"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "7f7ef360ee12ecfcf5597534a8cb16bb25604ef0fee11aecd6456d03781642a9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-inventory-interactions.pw.toml"
+hash = "5eea224ebb2b1f1d3d24a4a9ef3f0ac5ae69ca6a023bfe9912c1542239ac2498"
 metafile = true
 
 [[files]]
