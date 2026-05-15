@@ -255,6 +255,11 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
+file = "mods/boomerang.pw.toml"
+hash = "ead50d181138c937447c2224fd4403bd5be66fc29ec1549a27dad11e38cf1a3a"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
 metafile = true
@@ -1090,6 +1095,16 @@ hash = "7ab44c99b4dee4fac99eac30e91e00df9f942d01f3ecf172648a8501bf12b4b6"
 metafile = true
 
 [[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "8b0e9d3c66f2a5276a3e1eaaab073f4e41f8d352c6d282e724129c23f0940bfc"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "749bf8f43a3b49b103685b1d1c8c39a2ca7bcd796818dc7aad226711760f0857"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "af6b190e42b601eb0e2ca6fd58209f0242ab8c403996f1814956a6699dcd4f86"
 metafile = true
@@ -1492,6 +1507,11 @@ metafile = true
 [[files]]
 file = "mods/server-browser.pw.toml"
 hash = "f3fe195be6fb2aa19f523acd07e4c48941bc9d46b41713148071dcb959b5a7b2"
+metafile = true
+
+[[files]]
+file = "mods/shearable-vines-neoforge.pw.toml"
+hash = "922878d1c8b09d5d5050542cdc5b3eaa8746846211c11608d96d3cc1a9d9c817"
 metafile = true
 
 [[files]]
