@@ -120,11 +120,6 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
-file = "mods/armor-hider.pw.toml"
-hash = "d3ca717eed07bcbbd6258af0121ef87c9a3629909114d7b6060b250bdf62e291"
-metafile = true
-
-[[files]]
 file = "mods/athena.pw.toml"
 hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
@@ -1537,6 +1532,11 @@ metafile = true
 [[files]]
 file = "mods/shearable-vines-neoforge.pw.toml"
 hash = "922878d1c8b09d5d5050542cdc5b3eaa8746846211c11608d96d3cc1a9d9c817"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "67ad8b1decb21a78d82ddca4fa123d0080644d4572a6855c6ba2776a98fd3426"
 metafile = true
 
 [[files]]
