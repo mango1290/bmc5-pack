@@ -1285,6 +1285,11 @@ hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
+file = "mods/nirvana.pw.toml"
+hash = "4f8b60eca8a7bd5bf1f154f4f3585ee44c8f6aa8b97b7e01ab865559c35ce363"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
@@ -1857,11 +1862,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "03b1945f985d8f20d077e70eebff66c6b2f000918a6c4f834d9161dbe654cfa4"
-metafile = true
-
-[[files]]
-file = "mods/weeder-continued.pw.toml"
-hash = "c13a2114e9f3771279da447b5713f43ba88e265dab477cb80a1e77ddb5ead4fb"
 metafile = true
 
 [[files]]
