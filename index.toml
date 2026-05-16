@@ -315,11 +315,6 @@ hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
 
 [[files]]
-file = "mods/chunk-activity-tracker.pw.toml"
-hash = "2dcb5146acc15bf66e94401795b8cf1c71376a0b6a8018dae67bb18468e3a289"
-metafile = true
-
-[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "70c4fe11582592bf38c8ac86b0d5923593772191fdcdf39de4b2c4b949c04f3d"
 metafile = true
