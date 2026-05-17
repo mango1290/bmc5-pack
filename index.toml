@@ -545,11 +545,6 @@ hash = "00f40009395dc60d8a67b6dddf155239b6e94867da16f1e26718f697c3065d73"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "2e67c20c8e08ee6acb2b3c26c08a44958d9886bd213c41710e957739e9be4d48"
-metafile = true
-
-[[files]]
 file = "mods/dyed-flames.pw.toml"
 hash = "934815ee8a4c3935f7992f32c68afc3c93952eebf9e48858e1957eb980031a87"
 metafile = true
@@ -647,11 +642,6 @@ metafile = true
 [[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "5fe387bcad2d72c9bdd7047c19fed3959dcc65e2615e188ae743c517c08209df"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "2847aa88f18c7ded7801f7dd707ac660670e81e2ab4ca8b67209100aea8d814c"
 metafile = true
 
 [[files]]
@@ -1125,11 +1115,6 @@ hash = "f5bba8e4957d5f6d549838d9997b04056d5b15182cccdcd5827c7ee8ae093917"
 metafile = true
 
 [[files]]
-file = "mods/melody.pw.toml"
-hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
-metafile = true
-
-[[files]]
 file = "mods/memory-settings.pw.toml"
 hash = "20d079e04356c4518ea386bf12fd5d7e77a5887651f816a15a369b92c839b4b8"
 metafile = true
@@ -1182,11 +1167,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "252659cbaad2f31f723bf31d8ede250dc4b9c821c469f47b77d74e23864b4b45"
-metafile = true
-
-[[files]]
-file = "mods/modpack-update-checker.pw.toml"
-hash = "675849cd30fa48bd0a413ad3bf605eb614a979e220bcd51faef397739471487f"
 metafile = true
 
 [[files]]
