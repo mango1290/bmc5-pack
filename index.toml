@@ -1875,11 +1875,6 @@ hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
-file = "mods/youre-in-grave-danger.pw.toml"
-hash = "6b548f0402651a554b18cb6560bf85744d0827dfd001bb66232904e7962258e1"
-metafile = true
-
-[[files]]
 file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
 hash = "96f8af7d80e4ba87483d6a69b8fbd8bae787f38a5133038313ff0c1c28b0428f"
 metafile = true
