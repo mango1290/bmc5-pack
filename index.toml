@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dreams-desires.pw.toml"
-hash = "21c83a2a79ec084cf15634b178ad86c078e21a08ac1183d4ae2c09200a06e031"
+hash = "73da931c38d23a5d7645df892b2e75d1c2723a25576f8c1b03b27dcbaf6cd9f4"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-train-parts.pw.toml"
-hash = "785ec3f3b497647bca9d54816c7cac395d230dc3b972ba49e948248e0db5dccc"
+hash = "be28902a9eacd303a775f0cd2adfeb100a1b4a335fb4cb45f906083171e94148"
 metafile = true
 
 [[files]]
