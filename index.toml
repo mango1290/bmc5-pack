@@ -1325,11 +1325,6 @@ hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
-metafile = true
-
-[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "4357774fa2bb92e3d6b75a475c41c4cc314e98af696bf591c47ff2621ad5ecac"
 metafile = true
