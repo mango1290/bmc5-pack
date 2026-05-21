@@ -915,6 +915,11 @@ hash = "f493681afe9d27595b382cfbbc756ea0ab06daa106e5bd8f50b10e6e8cc1076c"
 metafile = true
 
 [[files]]
+file = "mods/historical-guns.pw.toml"
+hash = "4d0b400aa8a9422fa14c02172a3bb818af587808d9af54042196b002dfbbed35"
+metafile = true
+
+[[files]]
 file = "mods/hrtffix.pw.toml"
 hash = "49f82e811cb1f43ace655b20bb107652be72a8aade96ba19277fc800093d2a5a"
 metafile = true
