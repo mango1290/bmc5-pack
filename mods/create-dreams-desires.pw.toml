@@ -3,11 +3,7 @@ filename = "DnDesires-1.21.1-2.3a-BETA.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "72635119b4bcc49b050c50d6cbb1abb02bb3982a"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8037481
-project-id = 864781
+hash = "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/DnDesires-1.21.1-2.3a-BETA.jar"
