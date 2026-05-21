@@ -1,0 +1,9 @@
+name = "Medieval Craft (Historical Guns)"
+filename = "historical_guns-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash = "1c018dc95bd0f16b218aee8b23955976566dd105127c3ae6083bf32bf19044c9"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/historical_guns-1.0.0-neoforge-1.21.1.jar"
