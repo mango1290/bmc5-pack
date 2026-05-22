@@ -440,6 +440,11 @@ hash = "899cefbe03c5535b52755672a15bbd30633fd5c09bbfaf265bbe599f1438cc9e"
 metafile = true
 
 [[files]]
+file = "mods/create-additional-logistics.pw.toml"
+hash = "69c4dc4b705aaafc29a626b220950dd5f8d09712b379db2f7579e850656eea20"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "404a6f944d9c057e8ea2fd1497298cc9e552191135ee07a8e009058b2707a719"
 metafile = true
@@ -457,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/create-dreams-desires.pw.toml"
 hash = "73da931c38d23a5d7645df892b2e75d1c2723a25576f8c1b03b27dcbaf6cd9f4"
+metafile = true
+
+[[files]]
+file = "mods/create-gunsmithing-patched.pw.toml"
+hash = "a7fd2283bd7f45aae94d94102b348480cd1e976606736a2919df380ed71427b6"
 metafile = true
 
 [[files]]
@@ -912,11 +922,6 @@ metafile = true
 [[files]]
 file = "mods/hellish-trials.pw.toml"
 hash = "f493681afe9d27595b382cfbbc756ea0ab06daa106e5bd8f50b10e6e8cc1076c"
-metafile = true
-
-[[files]]
-file = "mods/historical-guns.pw.toml"
-hash = "4d0b400aa8a9422fa14c02172a3bb818af587808d9af54042196b002dfbbed35"
 metafile = true
 
 [[files]]
@@ -1387,6 +1392,16 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
+metafile = true
+
+[[files]]
+file = "mods/nukateams-gun-lib.pw.toml"
+hash = "2d81754ee082f04f4b2d7c619a63092bc37869dcec493c75337ee35d4c72cd41"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "56a7c2e0893f18bcb34206b85a90b1be84267e5783f53f602320ad40b36e201d"
 metafile = true
 
 [[files]]
