@@ -1,0 +1,9 @@
+name = "Create Gunsmithing (Patched)"
+filename = "create-gunsmithing-1.21.1-1.4.6.jar"
+side = "both"
+
+[download]
+hash = "d1530f2d2a71b05bd213b4fb8ab13d58576e81cedf5f23ed8155e0d625fef551"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/create-gunsmithing-1.21.1-1.4.6.jar"
