@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/backpacked.pw.toml"
-hash = "603061cc99ed16b51e7a4e1691182fc1226c59f81043a8223ef73cda91b3967f"
+hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
 
 [[files]]
