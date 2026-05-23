@@ -370,11 +370,6 @@ hash = "0e8fd6ac8a106eecba224841a91a0b7e667e0a6fcb35766ea77007cd55bd1f49"
 metafile = true
 
 [[files]]
-file = "mods/combat-roll.pw.toml"
-hash = "e52e14c05ec085330effde5efdcb0de43afa65cca73e045f5a13516fdfea54eb"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
