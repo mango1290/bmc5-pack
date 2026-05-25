@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "1ab7a8ef0a41cf6a4c4028a8c7d310a806917392b180413cdb004090145ffdc4"
+hash = "b08067bd27d91fc1f48d29f93db7e46ca8419cb05ad1928af58e34c034465186"
 metafile = true
 
 [[files]]
@@ -950,6 +950,11 @@ hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "6d20a86056a8c05758dc6f4159fbe2a0c2c5ece5ce4347205d19fdc25dab8d3a"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armor-hud.pw.toml"
 hash = "60e9e411aa56b6e6a0522c2436c8734826fc73ed6c16154842dacf1b948253c6"
 metafile = true
@@ -960,8 +965,18 @@ hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
 metafile = true
 
 [[files]]
+file = "mods/immersive-furniture.pw.toml"
+hash = "38540384143ccbf69c140191ee20ba1688eb01329b106876f31c4f717e68939e"
+metafile = true
+
+[[files]]
 file = "mods/immersive-lanterns.pw.toml"
 hash = "932c985b60d1ad9defb6544fb5aa7b3490be7b6497dc7537b640d2ee060275fa"
+metafile = true
+
+[[files]]
+file = "mods/immersive-machinery.pw.toml"
+hash = "c3f7a308c775e5069042d0e480d9884cd57500a8ba2f08a244337a6de280972d"
 metafile = true
 
 [[files]]
@@ -1152,6 +1167,11 @@ metafile = true
 [[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "d7ed4aa2c8e01de8d38b08f96b7f10dac30b96df1c1e7f4b924588a36f5bdca3"
 metafile = true
 
 [[files]]
@@ -1680,6 +1700,11 @@ hash = "442ea4d2312dd58741a7c1ce1f6ae0514cc528fb0b06e7268807d46b0720d6d9"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "dc7140923a01338926a9bea3708b12ddc2599c1bb6c52b5dc624dbdcdde9385e"
 metafile = true
@@ -1776,7 +1801,7 @@ metafile = true
 
 [[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
-hash = "9b99e7aa00e20c15be65b3a4845daac4fb3e456010e924e36e81974cdce50241"
+hash = "ff0bcf358006b6a6a55c406ba2409cf14bbba5bb99d8a5122abcc8b1ade85f04"
 metafile = true
 
 [[files]]
@@ -1997,6 +2022,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "01562e27f0c92ebf98eb6aaaace3c14fef18c734a6c65bda8101b8d3c640e12f"
+metafile = true
+
+[[files]]
+file = "mods/xerca-music-maker.pw.toml"
+hash = "a79ab2826279a9ba08957e25157a70ccbe0bc82d829ae25abbba036491a06397"
 metafile = true
 
 [[files]]
