@@ -1,0 +1,13 @@
+name = "Corail Pillar"
+filename = "corail_pillar-neoforge-1.21.1-6.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68ac5405ddf09e9c6d701083fb658c520bd8cc3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5669131
+project-id = 266228
