@@ -260,8 +260,8 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
-file = "mods/brewin-and-chewin.pw.toml"
-hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
+file = "mods/brewin-and-chewin-PATCHED.pw.toml"
+hash = "59c1f8bb5a757fee6a7654edec7f2f5361b07d10e61c1a3e54bee618bd710951"
 metafile = true
 
 [[files]]
@@ -417,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
+metafile = true
+
+[[files]]
+file = "mods/corail-pillar.pw.toml"
+hash = "dc6242a8ec5a83e5af75ee985edae77ec93bac031a2da92168023c2e06a8ab9f"
 metafile = true
 
 [[files]]
@@ -730,8 +735,8 @@ hash = "adcd67c419f4c88858298958287b1658e9a81b7d50c6794769ca01c8b856d3a6"
 metafile = true
 
 [[files]]
-file = "mods/fairy-lights-neoforge.pw.toml"
-hash = "914b868e1848b912fdac1a55af2b43249e7c4813006ab592da2c068302f8c397"
+file = "mods/fairy-lights.pw.toml"
+hash = "d0c895046f9da275bef0132c1e8c72ccb816e16a796e8c6a70a640fad9fd555f"
 metafile = true
 
 [[files]]
