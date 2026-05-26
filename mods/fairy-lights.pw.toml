@@ -1,9 +1,0 @@
-name = "Fairy Lights"
-filename = "fairylights-8.0.10-neoforge-1.21.1.jar"
-side = "both"
-
-[download]
-hash = "2e643f48614c058d8aba1bb31b4a2bfedb75cc542553da531712badaa0add0e6"
-hash-format = "sha256"
-mode = "url"
-url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/fairylights-8.0.10-neoforge-1.21.1.jar"
