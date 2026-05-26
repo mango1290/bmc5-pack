@@ -1,0 +1,9 @@
+name = "Brewin' And Chewin'"
+filename = "BrewinAndChewin-neoforge-4.4.3+1.21.1.jar"
+side = "both"
+
+[download]
+hash = "5c34d1fb1602008c2acb11492cd5c82e45355278a9b04cb89ec2be2dea803601"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/BrewinAndChewin-neoforge-4.4.3+1.21.1.jar"
