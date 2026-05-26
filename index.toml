@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairy-lights.pw.toml"
-hash = "d0c895046f9da275bef0132c1e8c72ccb816e16a796e8c6a70a640fad9fd555f"
+hash = "cc63ad6a070d65cb4b45d6957680652ecfd39d058517f50ac86e221e38d84d97"
 metafile = true
 
 [[files]]
