@@ -990,6 +990,11 @@ hash = "40725e027f7cb0a7b444c25de8efde79a39888b155cd05cc1c0a94ed10b4ffe5"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "bb3856ceaf3933734518e14d3d9249c9bd7cddc3fcf2d674112a201789be4716"
+metafile = true
+
+[[files]]
 file = "mods/immersive-tips.pw.toml"
 hash = "13f809a42fd59c08b1e477c1d0c88af68ba8632c4d5af78d39f64ab55ba60f28"
 metafile = true
