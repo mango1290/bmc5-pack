@@ -3,7 +3,7 @@ filename = "xercamusic-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
-hash = "876803421f4577d30ba335b6e9447e302b0453b7c25bb7ab18d17db017329eb3"
+hash = "a9fa43e92aeab4f08d4a092a90d5cce840c96517aa29c321d5183d8032fbbe9f"
 hash-format = "sha256"
 mode = "url"
 url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/xercamusic-1.21.1-1.1.1.jar"
