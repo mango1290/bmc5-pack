@@ -1625,6 +1625,11 @@ hash = "07c5f5446ae7b20c9014fd01a54dbd2214a53f676bc842181da596a939751e9a"
 metafile = true
 
 [[files]]
+file = "mods/rgb-blocks-forge.pw.toml"
+hash = "94ccf8501c847cb2d95bb2d03f9d82e3afa9e6b32879d747448c5c9ea933c2c3"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "9f0a36fc8540ac5d4b9fc3944b5dd4c0e097d0a189f84a95efc5f77cfd891c1f"
 metafile = true
