@@ -1365,16 +1365,6 @@ hash = "978ee3a89a0fef0693e0102a93c01374fc6751a2deb4e4b6e73e4b0902d0793a"
 metafile = true
 
 [[files]]
-file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
-hash = "5015a605e131526b60fc305cba3f94aa69f076c5ee681db53a50d94bfb07cda5"
-metafile = true
-
-[[files]]
-file = "mods/more-red.pw.toml"
-hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
-metafile = true
-
-[[files]]
 file = "mods/more-villagers-re-employed.pw.toml"
 hash = "e917152214e0921f9c2dbbe901e2fbcb668fba550a856c18130a07da8e297b87"
 metafile = true
