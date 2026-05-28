@@ -100,6 +100,11 @@ hash = "9e414657b3a5e60c99e241c58c33cd1e6444780d29aa64c5f897ce1aaf24a00d"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified-ie.pw.toml"
+hash = "5841ce5135a416f849225e0feac4ae54b1640c72c23ccf9829739ffbf60b6839"
+metafile = true
+
+[[files]]
 file = "mods/almostunified.pw.toml"
 hash = "9f5aad1d762982ebf9375501f6de7080d60d5b7c24732dc162175d4307c18411"
 metafile = true
@@ -435,6 +440,11 @@ hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "4ecd48b799c8939ca070ee73a942d0dc7511b8fa8f431c1c281941e87859f485"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "899cefbe03c5535b52755672a15bbd30633fd5c09bbfaf265bbe599f1438cc9e"
 metafile = true
@@ -462,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/create-dreams-desires.pw.toml"
 hash = "73da931c38d23a5d7645df892b2e75d1c2723a25576f8c1b03b27dcbaf6cd9f4"
+metafile = true
+
+[[files]]
+file = "mods/create-extra-gauges.pw.toml"
+hash = "372f992cc0bbd5120fb02e66ffa01e7cc507f92aa1aad8b6da3e46818da679e5"
 metafile = true
 
 [[files]]
@@ -562,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/delete-worlds-to-trash.pw.toml"
 hash = "884441719b45283a2b239bb24273dc9bd8f5e27637ea20019938b65be047490d"
+metafile = true
+
+[[files]]
+file = "mods/deployer.pw.toml"
+hash = "498c2403baf1f07fc91e7f03d20c181df99ce89d3308fdcce5c337b05023e9bb"
 metafile = true
 
 [[files]]
@@ -687,6 +707,16 @@ metafile = true
 [[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "dccf89806ac0b43675645a38d1701ec45533f82c268e8e0c2bb3d483599a2958"
+metafile = true
+
+[[files]]
+file = "mods/engineered-compatibility.pw.toml"
+hash = "f85744a1e21ba80e4a9bb906ff4f3165e6d19475e8d9ca2427b30afedb933cec"
+metafile = true
+
+[[files]]
+file = "mods/engineers-delight.pw.toml"
+hash = "f2efdf62c5747b466c3712de24132aaef401b06fe6ece0a963cd9938837bdd73"
 metafile = true
 
 [[files]]
@@ -1330,6 +1360,11 @@ hash = "978ee3a89a0fef0693e0102a93c01374fc6751a2deb4e4b6e73e4b0902d0793a"
 metafile = true
 
 [[files]]
+file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
+hash = "5015a605e131526b60fc305cba3f94aa69f076c5ee681db53a50d94bfb07cda5"
+metafile = true
+
+[[files]]
 file = "mods/more-red.pw.toml"
 hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
 metafile = true
@@ -1592,6 +1627,11 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "73d95acff6b0a5d3b64722f6959421853b5e4fca656d42d2cbf1fd5d3e76813c"
+metafile = true
+
+[[files]]
+file = "mods/remorphed.pw.toml"
+hash = "ac9d31a2519ba30cf25ee39cd191eb6da51df88a45f6456a8922fe3da674be9f"
 metafile = true
 
 [[files]]
@@ -2027,6 +2067,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "666de5e89e4537b9b758d642952efbd67c25d9d3a88a6ebd481962508851d001"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "11b1c252e23855e500f28723c43f1f18f797b148f621ec6c2c9a5c6dc573768e"
 metafile = true
 
 [[files]]
