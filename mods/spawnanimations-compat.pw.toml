@@ -1,0 +1,9 @@
+name = "Spawn Animations Compat"
+filename = "spawn-animations-compats-15.0.jar"
+side = "both"
+
+[download]
+hash = "ba25cedb6b93cdbb6f24b9a1c249d553f3b519bf364c6803a84a0dcd9f1a9058"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/spawn-animations-compats-15.0.jar"

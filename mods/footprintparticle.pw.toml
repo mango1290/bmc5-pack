@@ -1,0 +1,9 @@
+name = "Footprint Particle"
+filename = "footprintparticle-0.5.4b-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash = "698871e0c2d96d0d4a2a6719909f4da3b30185ff43fd2fd43c1f30220e8357b6"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/footprintparticle-0.5.4b-mc1.21.1.jar"
