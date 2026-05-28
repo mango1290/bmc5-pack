@@ -835,6 +835,11 @@ hash = "1bd2394f96010b72db2678cbdd2c290ce684b9b2fb8f32f99c1fba9fa2a0e6b0"
 metafile = true
 
 [[files]]
+file = "mods/footprintparticle.pw.toml"
+hash = "2eaf5f4f98922cd5db5a9a985af0afd5a5256de94505b5f654b59b42ff4dc2ca"
+metafile = true
+
+[[files]]
 file = "mods/forge-cit.pw.toml"
 hash = "5115aa2453a30675b9048bf7862e3193b43fc543ba27c3ecdebc44dce7bce2e5"
 metafile = true
@@ -1852,6 +1857,11 @@ metafile = true
 [[files]]
 file = "mods/sparse-structures.pw.toml"
 hash = "39f04c55a2bd99df584fe260b0cccfcbda4bb1dfb553fb615517bf4449f4d446"
+metafile = true
+
+[[files]]
+file = "mods/spawnanimations-compat.pw.toml"
+hash = "98fa1a9c724c1374fd3a9b24a8791d08f4836b718e5dbeb3339b236b4df2e7fe"
 metafile = true
 
 [[files]]
