@@ -1850,11 +1850,6 @@ hash = "39f04c55a2bd99df584fe260b0cccfcbda4bb1dfb553fb615517bf4449f4d446"
 metafile = true
 
 [[files]]
-file = "mods/spawnanimations-compat.pw.toml"
-hash = "98fa1a9c724c1374fd3a9b24a8791d08f4836b718e5dbeb3339b236b4df2e7fe"
-metafile = true
-
-[[files]]
 file = "mods/starcatcher.pw.toml"
 hash = "31ef2c296e4c7fe6980bce724ce19ff9fd6ea340ad99e123f821867d59d5f6c6"
 metafile = true
