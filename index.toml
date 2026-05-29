@@ -420,6 +420,11 @@ hash = "5e49b200d6af8fec1e12fd6a25ae89070a7004c0bac99b942dad5f52bef5b02d"
 metafile = true
 
 [[files]]
+file = "mods/cool-rain.pw.toml"
+hash = "e8bfe6030b00a3b72b44359ed1e80f956be308b9c6b371619f3776aef33c3ff0"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -437,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
+metafile = true
+
+[[files]]
+file = "mods/countereds-smooth-f5.pw.toml"
+hash = "bd0b5402a6fbae43f7eb4fe2e7ba64bb1309142ee3827e3b747042d338ef50dd"
 metafile = true
 
 [[files]]
@@ -742,6 +752,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "31b7ec8d5a44926892bc10b4c0b836f5db457399006699e18bd1249c8d9802b6"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "f2be475fad96949ff8e26e8a03046b1732935b1dbd9b8824e505e7413ec08622"
 metafile = true
 
 [[files]]
@@ -1562,6 +1577,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "94f92fecc2a48a76f3fa40672343d676e4b2aac2a905949b4decb7f5aaa37aea"
 metafile = true
 
 [[files]]
