@@ -445,11 +445,6 @@ hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
-file = "mods/countereds-smooth-f5.pw.toml"
-hash = "bd0b5402a6fbae43f7eb4fe2e7ba64bb1309142ee3827e3b747042d338ef50dd"
-metafile = true
-
-[[files]]
 file = "mods/crafted-core.pw.toml"
 hash = "4ecd48b799c8939ca070ee73a942d0dc7511b8fa8f431c1c281941e87859f485"
 metafile = true
@@ -667,11 +662,6 @@ metafile = true
 [[files]]
 file = "mods/dragnsounds-api.pw.toml"
 hash = "23b5d090e3c175837dcee5adfee094c80123187f31def3a4de2bcca1783ea884"
-metafile = true
-
-[[files]]
-file = "mods/dragonlib.pw.toml"
-hash = "c233f9b1eeacd658394927dd886e96db37da27ca4cea752710510f2a0c72d236"
 metafile = true
 
 [[files]]
