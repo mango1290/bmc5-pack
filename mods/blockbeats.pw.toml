@@ -1,0 +1,13 @@
+name = "BlockBeats"
+filename = "blockbeats-neoforge-1.21.1-alpha-0.2.1-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96fb62cf760091adf6e2f05341c677d028388448"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7754949
+project-id = 1050389
