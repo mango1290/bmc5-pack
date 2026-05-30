@@ -250,11 +250,6 @@ hash = "8e1f17dcb40352d1604d521736734f40b10b58629cd063af5b244831ac28039a"
 metafile = true
 
 [[files]]
-file = "mods/blockbeats.pw.toml"
-hash = "c4e36cbec2f6b2b4d6bb5776234a256d0cd224af917aadf08e7f20bfb2ca5e75"
-metafile = true
-
-[[files]]
 file = "mods/bmc-patcher.pw.toml"
 hash = "870fee707a8524e5e4013564735794cf2475a5908a037169224980a8f85a2738"
 metafile = true
@@ -665,6 +660,11 @@ hash = "23b5d090e3c175837dcee5adfee094c80123187f31def3a4de2bcca1783ea884"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "c233f9b1eeacd658394927dd886e96db37da27ca4cea752710510f2a0c72d236"
+metafile = true
+
+[[files]]
 file = "mods/dyed-flames.pw.toml"
 hash = "934815ee8a4c3935f7992f32c68afc3c93952eebf9e48858e1957eb980031a87"
 metafile = true
@@ -752,6 +752,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "31b7ec8d5a44926892bc10b4c0b836f5db457399006699e18bd1249c8d9802b6"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "f2be475fad96949ff8e26e8a03046b1732935b1dbd9b8824e505e7413ec08622"
 metafile = true
 
 [[files]]
