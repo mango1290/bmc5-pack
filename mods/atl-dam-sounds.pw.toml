@@ -1,0 +1,9 @@
+name = "ATL Dam Sounds"
+filename = "atl-dam-sounds-1.0.0.jar"
+side = "both"
+
+[download]
+hash = "d530e346f2835aef339bc3c174727ce1495d9b604f2a5c4e6e1286df45d64e48"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/atl-dam-sounds-1.0.0.jar"
