@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/atl-dam-sounds.pw.toml"
-hash = "cc8aa146635dd97cf4a314b6255f72785c0fde812bd3abbeea513d102e38f1b5"
+hash = "90ae36f2135567e8298381674e71748bdccc489f64a44a96b6c6bb54b1517d3e"
 metafile = true
 
 [[files]]
@@ -817,6 +817,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-structures.pw.toml"
 hash = "0858ad32988a26d755ae88ad4670471e4e51ebbbd88584adfa60b3c02bc76f61"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "3138c13c61cca083b45ba2598c2407194ba5ea16d2a610968527eafa021c4635"
 metafile = true
 
 [[files]]
