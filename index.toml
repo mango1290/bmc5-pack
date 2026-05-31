@@ -140,6 +140,11 @@ hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
 
 [[files]]
+file = "mods/atl-dam-sounds.pw.toml"
+hash = "cc8aa146635dd97cf4a314b6255f72785c0fde812bd3abbeea513d102e38f1b5"
+metafile = true
+
+[[files]]
 file = "mods/audio-improvements.pw.toml"
 hash = "d58c9491c6372bed92c430e2c6782ccd133e5290f7ef4653b2dfd64729e1c644"
 metafile = true
@@ -257,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view-forge.pw.toml"
 hash = "c9bddfd011a93a6ab2fc5fd9dea8ce1bf27275a6cf1ff50fe9562fdec9f2962e"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "aee9564b8059e47bea9adfe52d9074adba2249007279b493efceeda4caf32ca7"
 metafile = true
 
 [[files]]
@@ -807,11 +817,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-structures.pw.toml"
 hash = "0858ad32988a26d755ae88ad4670471e4e51ebbbd88584adfa60b3c02bc76f61"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "3138c13c61cca083b45ba2598c2407194ba5ea16d2a610968527eafa021c4635"
 metafile = true
 
 [[files]]
