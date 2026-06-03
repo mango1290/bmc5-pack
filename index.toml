@@ -269,8 +269,8 @@ hash = "c9bddfd011a93a6ab2fc5fd9dea8ce1bf27275a6cf1ff50fe9562fdec9f2962e"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "61fb1dad651feb25c39c508a66c6a9a7aa7a26de61df777ef64f7a9f26cd8630"
+file = "mods/bobby-patched.pw.toml"
+hash = "19f52a9c44911d9ac1d69a61aa2cc6d7b34e4d238e573a68d9230d1454cc7203"
 metafile = true
 
 [[files]]
