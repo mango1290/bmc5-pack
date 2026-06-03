@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "5e843f025791465365bb57746e2f03dc83b9abcd36a07ddd798c0e282d239510"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "5807f199fe8d38285601cc0ded567f42ae23cf5b2b53ff9dce5cb8abd8890a67"
 
@@ -881,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+hash = "3379bfb39f8be756ec8cccde4e1cc9d44d7856d6006b4a4c2b00e128aeb64967"
 metafile = true
 
 [[files]]
