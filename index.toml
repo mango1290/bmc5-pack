@@ -660,11 +660,6 @@ hash = "00f40009395dc60d8a67b6dddf155239b6e94867da16f1e26718f697c3065d73"
 metafile = true
 
 [[files]]
-file = "mods/dragnsounds-api.pw.toml"
-hash = "23b5d090e3c175837dcee5adfee094c80123187f31def3a4de2bcca1783ea884"
-metafile = true
-
-[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "c233f9b1eeacd658394927dd886e96db37da27ca4cea752710510f2a0c72d236"
 metafile = true
