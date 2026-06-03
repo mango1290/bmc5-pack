@@ -164,6 +164,11 @@ hash = "8632a7bb111d1d11db6d3a53ccb0263c7bcd683d0f5a8ed6fecf9bcf4ba8b52b"
 metafile = true
 
 [[files]]
+file = "mods/autoreconnectrf.pw.toml"
+hash = "49a25c704ac32b5841a89a8695cbab1199a36d89e5286f2609d9ed274b2bba69"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "c6bfded13163365cb14a56c707a91271dec8b6317708a2c4cca4564b71693399"
 metafile = true
