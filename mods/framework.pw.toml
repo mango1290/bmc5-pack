@@ -1,13 +1,9 @@
 name = "Framework"
-filename = "framework-neoforge-1.21.1-0.13.11.jar"
+filename = "framework-neoforge-1.21.1-0.13.11-patched.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e46eb138fbb13a12f37154fb4ec407d64b326475"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7530361
-project-id = 549225
+hash = "fe135c6e8af465678bac32126c4171387a8588fbd90bf4b31abf2c4fceb354cc"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/framework-neoforge-1.21.1-0.13.11-patched.jar"
