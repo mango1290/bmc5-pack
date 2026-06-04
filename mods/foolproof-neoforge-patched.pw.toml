@@ -1,0 +1,9 @@
+name = "Foolproof (Patched)"
+filename = "foolproof-neoforge-1.0.4-1.21.1-patched.jar"
+side = "both"
+
+[download]
+hash = "68cef0b5201fc0d831ae35740ce315a3c55e1687213d5cb2a3a60730ddbf1509"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/foolproof-neoforge-1.0.4-1.21.1-patched.jar"
