@@ -1,0 +1,21 @@
+{
+  "options": {
+    "delays": [
+      5,
+	  30,
+      120,
+      150,
+      170,
+	  200
+    ],
+    "infinite": false,
+    "conditionType": false,
+    "conditionKeys": [
+      "multiplayer.disconnect.banned"
+    ],
+    "conditionPatterns": [],
+    "autoMessages": [],
+    "commandSigning": false,
+    "regexIds": false
+  }
+}
