@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/autoreconnectrf.json"
+hash = "ba042dbe09f3187ca74638a616d0cdf7acd364400e3e3f9e31895134e6d099d6"
+
+[[files]]
+file = "config/bobby.conf"
+hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "5e843f025791465365bb57746e2f03dc83b9abcd36a07ddd798c0e282d239510"
 
