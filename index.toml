@@ -849,8 +849,8 @@ hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
 
 [[files]]
-file = "mods/foolproof.pw.toml"
-hash = "1bd2394f96010b72db2678cbdd2c290ce684b9b2fb8f32f99c1fba9fa2a0e6b0"
+file = "mods/foolproof-neoforge-patched.pw.toml"
+hash = "bf6f45c455fe56a00f427f8d3d63f75b9fb2f586e3f862592d97e95216615169"
 metafile = true
 
 [[files]]
