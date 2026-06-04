@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/autoreconnectrf.json"
-hash = "ba042dbe09f3187ca74638a616d0cdf7acd364400e3e3f9e31895134e6d099d6"
+hash = "25cb702315a249f015b74b0e48aed3783c94911fb10bc2bcb1ccca1ac5c4814b"
 
 [[files]]
 file = "config/bobby.conf"
