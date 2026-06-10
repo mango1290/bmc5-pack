@@ -392,11 +392,6 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
-file = "mods/coastercart.pw.toml"
-hash = "7d6f65ad1f09eeaf9c6e8dc90495437004f5801140a4c60ad05da9f9cc9aa063"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "476cf6c6e93952425fa9de4cb7fd405994a337dfbe9e8ebfda83e12352d31b64"
 metafile = true
@@ -487,11 +482,6 @@ hash = "69c4dc4b705aaafc29a626b220950dd5f8d09712b379db2f7579e850656eea20"
 metafile = true
 
 [[files]]
-file = "mods/create-bits-n-bobs.pw.toml"
-hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
-metafile = true
-
-[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "404a6f944d9c057e8ea2fd1497298cc9e552191135ee07a8e009058b2707a719"
 metafile = true
@@ -502,11 +492,6 @@ hash = "b08067bd27d91fc1f48d29f93db7e46ca8419cb05ad1928af58e34c034465186"
 metafile = true
 
 [[files]]
-file = "mods/create-diesel-generators.pw.toml"
-hash = "a29ffaf830f4ac94a8a867f2bd05b453d7f60e38e58c3fe5e05ec8946c5e854a"
-metafile = true
-
-[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "553741cf86630ed14caba26768da5b1518a38e7bf7e82de1c179b9342227d546"
 metafile = true
@@ -514,11 +499,6 @@ metafile = true
 [[files]]
 file = "mods/create-dreams-desires.pw.toml"
 hash = "73da931c38d23a5d7645df892b2e75d1c2723a25576f8c1b03b27dcbaf6cd9f4"
-metafile = true
-
-[[files]]
-file = "mods/create-escalated.pw.toml"
-hash = "040e5ed9eafedf380f2dcf058efd2cc2a15d5cdfe29a49b7ef41b21c6d935f75"
 metafile = true
 
 [[files]]
@@ -569,11 +549,6 @@ metafile = true
 [[files]]
 file = "mods/create-train-perspective.pw.toml"
 hash = "741a397a74ed7cca5b20797c468398312dce8b634e01f5e1d4fa34231c84a8b1"
-metafile = true
-
-[[files]]
-file = "mods/create-transmission.pw.toml"
-hash = "fee63d0b246df05bfd950d3be9ed6b4ce02752ce21f8b13489a892ecdff8056a"
 metafile = true
 
 [[files]]
@@ -1579,16 +1554,6 @@ metafile = true
 [[files]]
 file = "mods/paxi-neoforge.pw.toml"
 hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
-metafile = true
-
-[[files]]
-file = "mods/petrolpark.pw.toml"
-hash = "d697896268af5b0b91ac4736007bbccd301aa8aa428c03ed70e23a15d719527e"
-metafile = true
-
-[[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
 metafile = true
 
 [[files]]
