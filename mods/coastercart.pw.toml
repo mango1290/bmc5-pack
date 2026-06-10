@@ -1,0 +1,13 @@
+name = "CoasterCart"
+filename = "coastercart-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cb0c7febb3772217896938bd76bdc6dbae6ceb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7261075
+project-id = 1391644
