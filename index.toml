@@ -327,6 +327,11 @@ hash = "c70bc24b041d93887a40fe45e49ba54c65f6e76692ebc442a6a9a93c2f0637c0"
 metafile = true
 
 [[files]]
+file = "mods/cc-directgpu.pw.toml"
+hash = "bee6d82bcd2d27781c75eb69d951beb02c7c8511305639ee3e5459dbe4b6a85d"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
