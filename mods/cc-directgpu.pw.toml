@@ -1,13 +1,9 @@
-name = "CC:DirectGPU"
+name = "DirectGPU"
 filename = "directgpu-1.0.20-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e2f3f73260c0d4c9e188022742b3d5037e9999a6"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8257312
-project-id = 1380859
+hash = "91d01ca0072bbf1c4cf322af35bd8ed1dbd5f5de7d4bce183a0d6deaf852bc55"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/directgpu-1.0.20-neoforge-1.21.1.jar"
