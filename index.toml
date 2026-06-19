@@ -2082,6 +2082,26 @@ hash = "1b7dd7f19229208c0fd12fe558e730c1755f754aad838e7506701f3f3eaafddf"
 metafile = true
 
 [[files]]
+file = "mods/waterframes.pw.toml"
+hash = "5d5b144eb42a6a6d505c720a3f04c6b84be39165ccf08c3f1a01dabf0e75b2ac"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "c62666398a756d3bc18d254c7cffef9356a9ab90409a7468b801eba3f2bf86bd"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "1ead8b09640301f8c5e54a4ead995070abad06781374f818dd3094516b2adb99"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "022c8bb3430adc4826aa93ec69a378fc6b200aa9a6b6cde1ca499aeaed441e5d"
+metafile = true
+
+[[files]]
 file = "mods/waveycapes.pw.toml"
 hash = "95242514427f756d163b43477d78d85083c99138dfe142d3a5e11ec8eec4bcee"
 metafile = true
