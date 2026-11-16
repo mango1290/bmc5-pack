@@ -167,6 +167,11 @@ hash = "123e3c632f57824ddf77643be32787cf35540217b4b559a27f8029b666fa57e6"
 metafile = true
 
 [[files]]
+file = "mods/aurorans-dragonbond-util.pw.toml"
+hash = "9f3a10d1db360e9639c70b825c1d0229c5c4e171fc9d99347e38e56b802719f4"
+metafile = true
+
+[[files]]
 file = "mods/autochefs-delight.pw.toml"
 hash = "8632a7bb111d1d11db6d3a53ccb0263c7bcd683d0f5a8ed6fecf9bcf4ba8b52b"
 metafile = true
@@ -284,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/bobby-patched-v2.pw.toml"
 hash = "887a98e690ca1cf46726263c9c36264f75eb6af7ffa97a096be1ddf069c82368"
+metafile = true
+
+[[files]]
+file = "mods/book-of-dragons.pw.toml"
+hash = "3fb047932a200331a5ab35e0b0eeb5b2c9a6c596b0a5f809f3db64d553cea575"
 metafile = true
 
 [[files]]
@@ -854,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "0f871a463cc9f10ba812d7e7cbdbfb119535d1a683c8eb85d06af35d7c726953"
+metafile = true
+
+[[files]]
+file = "mods/fauna-engine.pw.toml"
+hash = "b2355c412ecc9ac82c06b46a05212e3ceb4d15117b472b969de176cb5e71953e"
 metafile = true
 
 [[files]]
