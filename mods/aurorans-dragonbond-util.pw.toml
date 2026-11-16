@@ -1,0 +1,14 @@
+name = "Auroran's Dragonbond Util"
+filename = "dragonbond-1.21.1-1.2.0.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "79ebd39eeb2109cd1e00aaa66abf7109865d6ce0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9586395
+project-id = 1793037
