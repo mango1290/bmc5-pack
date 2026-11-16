@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorans-dragonbond-util.pw.toml"
-hash = "9f3a10d1db360e9639c70b825c1d0229c5c4e171fc9d99347e38e56b802719f4"
+hash = "e73006f94079e9fdba1b8de0fdf99964881dceca75c2fb87dc6ca153f06f1464"
 metafile = true
 
 [[files]]
