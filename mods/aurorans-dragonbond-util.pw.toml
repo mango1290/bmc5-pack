@@ -4,11 +4,7 @@ side = "both"
 pin = true
 
 [download]
-hash-format = "sha1"
-hash = "79ebd39eeb2109cd1e00aaa66abf7109865d6ce0"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 9586395
-project-id = 1793037
+hash = "037e75d5b3357575096558e96534d481efe0c0a8f92b84e802aa63785c08e5e9"
+hash-format = "sha256"
+mode = "url"
+url = "https://github.com/mango1290/bmc5-custom-mods/releases/download/v1.0/dragonbond-1.21.1-1.2.0.jar"
