@@ -1,6 +1,7 @@
 name = "Book of Dragons"
 filename = "bookofdragons-1.4.2-1.21.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/fJee0CPJ/versions/j1PQ6mlI/bookofdragons-1.4.2-1.21.1.jar"
