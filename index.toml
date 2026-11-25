@@ -292,13 +292,8 @@ hash = "887a98e690ca1cf46726263c9c36264f75eb6af7ffa97a096be1ddf069c82368"
 metafile = true
 
 [[files]]
-file = "mods/book-of-dragons-mazons-almenac.pw.toml"
-hash = "164795f379d75a66b212e78d473185a1a37fb9abc4b818285d045cc7f26813a8"
-metafile = true
-
-[[files]]
 file = "mods/book-of-dragons.pw.toml"
-hash = "fc9595240c93406a65c64dc2b7da2b1be4111d5d86935b00e6d3149dc4b2ba4f"
+hash = "3fb047932a200331a5ab35e0b0eeb5b2c9a6c596b0a5f809f3db64d553cea575"
 metafile = true
 
 [[files]]
@@ -873,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/fauna-engine.pw.toml"
-hash = "da5b924e93e4a2c7c142c2ebb836d8ea1bee4ec8e013cfdce407b755a32cd14e"
+hash = "b2355c412ecc9ac82c06b46a05212e3ceb4d15117b472b969de176cb5e71953e"
 metafile = true
 
 [[files]]
